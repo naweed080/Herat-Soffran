@@ -79,6 +79,9 @@ img {
     article {
         overflow: auto;
     }
+    body {
+        height: 840px;
+    }
 }
 /* @media(max-width:500px) {
     aside {
